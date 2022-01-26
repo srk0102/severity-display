@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 0,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2008-08-12T13:25:32.369Z"
+  },
+  {
+    "id": 1,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2008-04-14T00:54:00.974Z"
+  },
+  {
+    "id": 2,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2012-06-21T20:32:22.821Z"
+  },
+  {
+    "id": 3,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2010-11-14T06:34:10.489Z"
+  },
+  {
+    "id": 4,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2008-10-13T14:26:26.987Z"
+  },
+  {
+    "id": 5,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2007-04-19T17:54:13.540Z"
+  },
+  {
+    "id": 6,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2020-01-06T17:46:39.869Z"
+  },
+  {
+    "id": 7,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2020-10-23T09:53:48.021Z"
+  },
+  {
+    "id": 8,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2019-09-20T03:50:00.361Z"
+  },
+  {
+    "id": 9,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2010-01-13T05:23:54.433Z"
+  },
+  {
+    "id": 10,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2018-10-03T01:20:10.481Z"
+  },
+  {
+    "id": 11,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2017-01-17T23:07:15.461Z"
+  },
+  {
+    "id": 12,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2015-11-09T21:03:13.354Z"
+  },
+  {
+    "id": 13,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2012-04-28T06:31:40.644Z"
+  },
+  {
+    "id": 14,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2017-01-26T06:01:20.654Z"
+  },
+  {
+    "id": 15,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2006-08-16T12:31:48.122Z"
+  },
+  {
+    "id": 16,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2013-03-23T10:56:12.849Z"
+  },
+  {
+    "id": 17,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2009-09-03T21:54:47.703Z"
+  },
+  {
+    "id": 18,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2001-10-10T12:43:11.987Z"
+  },
+  {
+    "id": 19,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2000-10-09T23:40:35.528Z"
+  },
+  {
+    "id": 20,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2011-11-01T10:45:36.703Z"
+  },
+  {
+    "id": 21,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2019-03-31T08:33:35.107Z"
+  },
+  {
+    "id": 22,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2008-04-12T03:12:31.211Z"
+  },
+  {
+    "id": 23,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2004-05-01T18:30:53.267Z"
+  },
+  {
+    "id": 24,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2001-10-21T12:55:13.753Z"
+  },
+  {
+    "id": 25,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2009-05-17T06:07:32.018Z"
+  },
+  {
+    "id": 26,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2018-06-08T20:39:13.244Z"
+  },
+  {
+    "id": 27,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2000-01-14T15:00:01.711Z"
+  },
+  {
+    "id": 28,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2009-05-30T01:47:00.231Z"
+  },
+  {
+    "id": 29,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2010-08-04T10:15:54.923Z"
+  },
+  {
+    "id": 30,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2004-03-21T04:41:19.708Z"
+  },
+  {
+    "id": 31,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2009-03-13T02:30:36.862Z"
+  },
+  {
+    "id": 32,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2017-05-11T19:45:52.514Z"
+  },
+  {
+    "id": 33,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2010-12-10T14:31:08.636Z"
+  },
+  {
+    "id": 34,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2015-02-18T23:18:30.744Z"
+  },
+  {
+    "id": 35,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2019-06-18T08:09:42.107Z"
+  },
+  {
+    "id": 36,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2017-03-03T10:26:48.742Z"
+  },
+  {
+    "id": 37,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2018-03-10T04:20:50.684Z"
+  },
+  {
+    "id": 38,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2012-06-20T01:30:32.753Z"
+  },
+  {
+    "id": 39,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2000-04-11T05:30:33.808Z"
+  },
+  {
+    "id": 40,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2011-05-13T21:27:58.146Z"
+  },
+  {
+    "id": 41,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2009-03-03T10:58:46.504Z"
+  },
+  {
+    "id": 42,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2016-03-28T11:46:58.221Z"
+  },
+  {
+    "id": 43,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2001-08-04T09:19:04.448Z"
+  },
+  {
+    "id": 44,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2016-07-03T14:02:57.457Z"
+  },
+  {
+    "id": 45,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2012-05-23T20:35:09.211Z"
+  },
+  {
+    "id": 46,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2013-02-11T01:42:16.471Z"
+  },
+  {
+    "id": 47,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2017-06-06T17:47:08.364Z"
+  },
+  {
+    "id": 48,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2019-11-30T06:53:24.341Z"
+  },
+  {
+    "id": 49,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2002-11-01T23:56:04.424Z"
+  },
+  {
+    "id": 50,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2005-10-12T02:21:38.418Z"
+  },
+  {
+    "id": 51,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2012-03-17T02:43:03.196Z"
+  },
+  {
+    "id": 52,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2001-04-29T16:41:33.177Z"
+  },
+  {
+    "id": 53,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2007-11-06T15:28:18.162Z"
+  },
+  {
+    "id": 54,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2013-09-03T05:21:50.713Z"
+  },
+  {
+    "id": 55,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2016-06-02T17:25:59.106Z"
+  },
+  {
+    "id": 56,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2007-07-22T09:50:31.445Z"
+  },
+  {
+    "id": 57,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2018-08-24T02:44:28.092Z"
+  },
+  {
+    "id": 58,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2008-10-19T09:05:36.203Z"
+  },
+  {
+    "id": 59,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2018-05-31T15:44:32.481Z"
+  },
+  {
+    "id": 60,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2020-09-30T12:49:28.303Z"
+  },
+  {
+    "id": 61,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-06-19T18:56:16.266Z"
+  },
+  {
+    "id": 62,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2014-01-07T21:17:36.029Z"
+  },
+  {
+    "id": 63,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2003-02-01T13:17:29.154Z"
+  },
+  {
+    "id": 64,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2010-12-07T10:08:41.703Z"
+  },
+  {
+    "id": 65,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2017-08-20T00:18:05.104Z"
+  },
+  {
+    "id": 66,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2009-04-27T19:56:52.451Z"
+  },
+  {
+    "id": 67,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2006-07-11T15:14:50.796Z"
+  },
+  {
+    "id": 68,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2020-12-05T12:39:10.027Z"
+  },
+  {
+    "id": 69,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2002-09-04T00:10:28.592Z"
+  },
+  {
+    "id": 70,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2010-10-20T02:52:57.220Z"
+  },
+  {
+    "id": 71,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2002-02-17T21:45:52.972Z"
+  },
+  {
+    "id": 72,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2002-11-17T11:01:23.446Z"
+  },
+  {
+    "id": 73,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2010-11-13T17:58:03.129Z"
+  },
+  {
+    "id": 74,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2013-09-24T11:59:31.720Z"
+  },
+  {
+    "id": 75,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2005-04-04T23:23:24.093Z"
+  },
+  {
+    "id": 76,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2013-09-10T10:35:52.754Z"
+  },
+  {
+    "id": 77,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2018-06-25T20:43:19.891Z"
+  },
+  {
+    "id": 78,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2008-03-05T04:22:40.556Z"
+  },
+  {
+    "id": 79,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2005-09-26T15:14:32.566Z"
+  },
+  {
+    "id": 80,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2000-07-12T20:17:19.709Z"
+  },
+  {
+    "id": 81,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2011-05-13T11:25:59.067Z"
+  },
+  {
+    "id": 82,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2010-04-24T20:54:02.203Z"
+  },
+  {
+    "id": 83,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2001-01-28T08:00:39.594Z"
+  },
+  {
+    "id": 84,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2016-03-25T06:43:08.019Z"
+  },
+  {
+    "id": 85,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2015-02-02T21:59:38.902Z"
+  },
+  {
+    "id": 86,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2001-08-17T06:47:33.681Z"
+  },
+  {
+    "id": 87,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2013-07-21T05:20:36.066Z"
+  },
+  {
+    "id": 88,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2009-04-27T01:38:20.051Z"
+  },
+  {
+    "id": 89,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2010-07-04T23:36:09.655Z"
+  },
+  {
+    "id": 90,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2001-12-28T22:39:49.852Z"
+  },
+  {
+    "id": 91,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2007-06-05T05:41:45.108Z"
+  },
+  {
+    "id": 92,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2013-01-18T01:44:14.240Z"
+  },
+  {
+    "id": 93,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2000-04-10T06:10:14.865Z"
+  },
+  {
+    "id": 94,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2012-04-16T22:00:22.885Z"
+  },
+  {
+    "id": 95,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2010-08-17T11:32:06.981Z"
+  },
+  {
+    "id": 96,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2000-12-23T08:48:54.941Z"
+  },
+  {
+    "id": 97,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2008-11-11T01:12:31.173Z"
+  },
+  {
+    "id": 98,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2012-05-20T16:57:02.786Z"
+  },
+  {
+    "id": 99,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2018-03-14T22:10:20.210Z"
+  },
+  {
+    "id": 100,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2003-03-31T11:58:23.188Z"
+  },
+  {
+    "id": 101,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2012-06-13T08:55:57.053Z"
+  },
+  {
+    "id": 102,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2017-04-13T20:02:12.876Z"
+  },
+  {
+    "id": 103,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2018-09-02T06:53:46.925Z"
+  },
+  {
+    "id": 104,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2012-02-07T04:21:06.542Z"
+  },
+  {
+    "id": 105,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2012-11-14T21:02:52.812Z"
+  },
+  {
+    "id": 106,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2011-06-19T19:41:54.216Z"
+  },
+  {
+    "id": 107,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2004-11-22T10:06:42.097Z"
+  },
+  {
+    "id": 108,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2016-02-26T13:48:32.377Z"
+  },
+  {
+    "id": 109,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2010-05-06T09:36:04.533Z"
+  },
+  {
+    "id": 110,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2006-05-26T04:53:00.531Z"
+  },
+  {
+    "id": 111,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2016-03-25T06:22:59.254Z"
+  },
+  {
+    "id": 112,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2008-08-14T22:23:38.042Z"
+  },
+  {
+    "id": 113,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2018-02-01T18:10:45.521Z"
+  },
+  {
+    "id": 114,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2005-07-06T13:07:04.031Z"
+  },
+  {
+    "id": 115,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2014-11-04T06:00:24.913Z"
+  },
+  {
+    "id": 116,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2013-12-15T04:31:37.005Z"
+  },
+  {
+    "id": 117,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2005-03-09T07:05:23.709Z"
+  },
+  {
+    "id": 118,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2020-07-04T10:51:21.443Z"
+  },
+  {
+    "id": 119,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2006-09-25T06:50:49.092Z"
+  },
+  {
+    "id": 120,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2005-05-31T09:48:00.388Z"
+  },
+  {
+    "id": 121,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2020-04-05T14:43:34.017Z"
+  },
+  {
+    "id": 122,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2019-09-02T15:11:31.743Z"
+  },
+  {
+    "id": 123,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2015-10-12T14:05:13.584Z"
+  },
+  {
+    "id": 124,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2008-10-12T02:04:49.411Z"
+  },
+  {
+    "id": 125,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2009-06-18T02:19:57.438Z"
+  },
+  {
+    "id": 126,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2012-01-19T12:55:46.326Z"
+  },
+  {
+    "id": 127,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2000-12-05T23:03:56.374Z"
+  },
+  {
+    "id": 128,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2015-01-16T12:53:44.733Z"
+  },
+  {
+    "id": 129,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2011-08-29T12:51:55.980Z"
+  },
+  {
+    "id": 130,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2020-01-02T23:38:41.558Z"
+  },
+  {
+    "id": 131,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2009-02-16T22:55:55.706Z"
+  },
+  {
+    "id": 132,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2012-01-25T03:22:33.818Z"
+  },
+  {
+    "id": 133,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2019-01-24T20:45:11.062Z"
+  },
+  {
+    "id": 134,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2020-11-01T22:47:00.500Z"
+  },
+  {
+    "id": 135,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2000-09-20T04:28:21.960Z"
+  },
+  {
+    "id": 136,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2020-04-22T12:44:05.368Z"
+  },
+  {
+    "id": 137,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2000-03-19T17:50:40.554Z"
+  },
+  {
+    "id": 138,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2009-11-02T18:18:37.812Z"
+  },
+  {
+    "id": 139,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2008-10-30T00:35:20.839Z"
+  },
+  {
+    "id": 140,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2005-06-07T15:17:03.327Z"
+  },
+  {
+    "id": 141,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2011-11-03T02:55:14.045Z"
+  },
+  {
+    "id": 142,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2007-11-07T05:45:56.964Z"
+  },
+  {
+    "id": 143,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2015-05-15T19:59:23.224Z"
+  },
+  {
+    "id": 144,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2015-08-28T19:50:50.129Z"
+  },
+  {
+    "id": 145,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2008-05-29T11:16:56.845Z"
+  },
+  {
+    "id": 146,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2013-11-17T22:29:52.765Z"
+  },
+  {
+    "id": 147,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2007-08-19T09:52:16.629Z"
+  },
+  {
+    "id": 148,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2001-06-03T21:11:30.925Z"
+  },
+  {
+    "id": 149,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2005-02-11T06:46:18.205Z"
+  },
+  {
+    "id": 150,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2001-02-13T23:27:33.656Z"
+  },
+  {
+    "id": 151,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2014-12-13T13:20:44.365Z"
+  },
+  {
+    "id": 152,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2010-06-19T10:34:04.567Z"
+  },
+  {
+    "id": 153,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2004-10-13T12:36:58.797Z"
+  },
+  {
+    "id": 154,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2001-04-28T21:23:31.791Z"
+  },
+  {
+    "id": 155,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2019-07-14T11:54:02.026Z"
+  },
+  {
+    "id": 156,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2012-07-11T05:39:19.304Z"
+  },
+  {
+    "id": 157,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2010-04-26T01:44:19.866Z"
+  },
+  {
+    "id": 158,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2015-09-17T12:54:19.184Z"
+  },
+  {
+    "id": 159,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2002-12-15T00:16:11.794Z"
+  },
+  {
+    "id": 160,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2003-10-23T15:02:35.192Z"
+  },
+  {
+    "id": 161,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2009-04-13T03:53:59.478Z"
+  },
+  {
+    "id": 162,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2000-11-15T23:35:37.268Z"
+  },
+  {
+    "id": 163,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2003-01-22T11:49:25.784Z"
+  },
+  {
+    "id": 164,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-07-13T21:14:19.436Z"
+  },
+  {
+    "id": 165,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2005-12-01T05:09:00.568Z"
+  },
+  {
+    "id": 166,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2012-09-28T04:53:01.192Z"
+  },
+  {
+    "id": 167,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2012-02-10T06:57:29.561Z"
+  },
+  {
+    "id": 168,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2005-03-07T10:59:49.494Z"
+  },
+  {
+    "id": 169,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2009-01-20T14:33:35.510Z"
+  },
+  {
+    "id": 170,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2012-01-04T10:35:30.850Z"
+  },
+  {
+    "id": 171,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2014-09-04T07:53:34.763Z"
+  },
+  {
+    "id": 172,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2009-06-12T15:44:14.141Z"
+  },
+  {
+    "id": 173,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2018-09-26T10:14:29.090Z"
+  },
+  {
+    "id": 174,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2018-07-19T01:23:09.357Z"
+  },
+  {
+    "id": 175,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2009-05-27T17:08:40.576Z"
+  },
+  {
+    "id": 176,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2011-12-02T23:18:51.934Z"
+  },
+  {
+    "id": 177,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2000-08-11T17:03:19.213Z"
+  },
+  {
+    "id": 178,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2015-01-19T05:26:55.286Z"
+  },
+  {
+    "id": 179,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2004-01-22T21:57:45.226Z"
+  },
+  {
+    "id": 180,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2015-01-06T08:28:52.503Z"
+  },
+  {
+    "id": 181,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2016-08-14T12:43:48.022Z"
+  },
+  {
+    "id": 182,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2005-01-15T09:13:21.658Z"
+  },
+  {
+    "id": 183,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2004-10-29T21:23:43.080Z"
+  },
+  {
+    "id": 184,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2002-10-07T07:29:54.529Z"
+  },
+  {
+    "id": 185,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2016-01-13T22:01:06.069Z"
+  },
+  {
+    "id": 186,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2001-02-28T05:09:52.223Z"
+  },
+  {
+    "id": 187,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2020-08-25T04:54:20.404Z"
+  },
+  {
+    "id": 188,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2007-03-14T10:51:11.913Z"
+  },
+  {
+    "id": 189,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2000-08-01T04:07:13.341Z"
+  },
+  {
+    "id": 190,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2012-02-28T13:16:33.059Z"
+  },
+  {
+    "id": 191,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2000-10-04T08:14:35.499Z"
+  },
+  {
+    "id": 192,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2005-12-31T22:36:11.929Z"
+  },
+  {
+    "id": 193,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2004-11-07T00:05:48.939Z"
+  },
+  {
+    "id": 194,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2016-08-30T06:22:53.179Z"
+  },
+  {
+    "id": 195,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2005-08-03T07:02:12.066Z"
+  },
+  {
+    "id": 196,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2017-08-08T08:40:56.119Z"
+  },
+  {
+    "id": 197,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2010-03-12T12:58:39.920Z"
+  },
+  {
+    "id": 198,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2020-02-14T20:17:32.609Z"
+  },
+  {
+    "id": 199,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2008-04-07T00:01:18.428Z"
+  },
+  {
+    "id": 200,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2018-01-20T23:31:39.585Z"
+  },
+  {
+    "id": 201,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2008-03-12T20:35:15.243Z"
+  },
+  {
+    "id": 202,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2002-12-26T14:47:33.337Z"
+  },
+  {
+    "id": 203,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2004-05-07T02:50:18.446Z"
+  },
+  {
+    "id": 204,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2020-06-05T21:06:21.886Z"
+  },
+  {
+    "id": 205,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2012-02-29T04:53:06.218Z"
+  },
+  {
+    "id": 206,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2001-11-29T13:00:29.007Z"
+  },
+  {
+    "id": 207,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2009-09-02T11:50:12.709Z"
+  },
+  {
+    "id": 208,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2003-01-17T10:07:31.906Z"
+  },
+  {
+    "id": 209,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2016-04-08T13:16:27.765Z"
+  },
+  {
+    "id": 210,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2000-09-22T03:45:17.207Z"
+  },
+  {
+    "id": 211,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2008-12-14T04:34:40.089Z"
+  },
+  {
+    "id": 212,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2005-04-29T13:30:23.303Z"
+  },
+  {
+    "id": 213,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2018-11-12T18:55:15.207Z"
+  },
+  {
+    "id": 214,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2003-10-01T08:09:47.817Z"
+  },
+  {
+    "id": 215,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2009-08-06T20:47:21.076Z"
+  },
+  {
+    "id": 216,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2000-12-10T21:48:47.072Z"
+  },
+  {
+    "id": 217,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2012-01-09T23:05:16.900Z"
+  },
+  {
+    "id": 218,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2013-01-29T14:43:14.286Z"
+  },
+  {
+    "id": 219,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2005-01-06T05:19:25.560Z"
+  },
+  {
+    "id": 220,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2006-02-23T23:26:24.277Z"
+  },
+  {
+    "id": 221,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2007-08-01T06:44:54.750Z"
+  },
+  {
+    "id": 222,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2018-04-19T18:35:15.929Z"
+  },
+  {
+    "id": 223,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2006-03-20T14:33:52.570Z"
+  },
+  {
+    "id": 224,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2004-12-23T17:04:37.003Z"
+  },
+  {
+    "id": 225,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2011-06-04T21:39:38.068Z"
+  },
+  {
+    "id": 226,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2002-03-17T13:19:34.074Z"
+  },
+  {
+    "id": 227,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2019-05-21T21:44:19.961Z"
+  },
+  {
+    "id": 228,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2011-09-17T03:20:03.118Z"
+  },
+  {
+    "id": 229,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2000-11-21T06:44:26.844Z"
+  },
+  {
+    "id": 230,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2020-04-28T09:38:25.335Z"
+  },
+  {
+    "id": 231,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2002-11-25T10:34:41.087Z"
+  },
+  {
+    "id": 232,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2020-02-28T22:46:33.804Z"
+  },
+  {
+    "id": 233,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2013-12-03T20:53:24.602Z"
+  },
+  {
+    "id": 234,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2016-07-23T00:22:12.278Z"
+  },
+  {
+    "id": 235,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2017-12-18T05:03:10.493Z"
+  },
+  {
+    "id": 236,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2019-11-11T07:08:52.192Z"
+  },
+  {
+    "id": 237,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2013-01-17T01:29:07.234Z"
+  },
+  {
+    "id": 238,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2015-12-17T17:15:33.943Z"
+  },
+  {
+    "id": 239,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2017-11-24T22:18:46.587Z"
+  },
+  {
+    "id": 240,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2010-06-22T20:29:35.206Z"
+  },
+  {
+    "id": 241,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2005-08-20T07:11:49.856Z"
+  },
+  {
+    "id": 242,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2003-12-01T07:00:08.529Z"
+  },
+  {
+    "id": 243,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2012-11-21T14:13:26.974Z"
+  },
+  {
+    "id": 244,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2012-11-11T05:52:04.220Z"
+  },
+  {
+    "id": 245,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2017-07-20T14:21:26.604Z"
+  },
+  {
+    "id": 246,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2007-03-24T00:25:41.428Z"
+  },
+  {
+    "id": 247,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2016-11-19T20:32:15.007Z"
+  },
+  {
+    "id": 248,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2017-08-02T16:14:09.622Z"
+  },
+  {
+    "id": 249,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2019-06-07T05:15:07.052Z"
+  },
+  {
+    "id": 250,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2001-12-04T17:08:46.026Z"
+  },
+  {
+    "id": 251,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2019-07-12T08:01:26.851Z"
+  },
+  {
+    "id": 252,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2011-11-24T07:56:57.437Z"
+  },
+  {
+    "id": 253,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2012-05-17T16:21:37.243Z"
+  },
+  {
+    "id": 254,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2003-04-11T17:39:11.498Z"
+  },
+  {
+    "id": 255,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2004-07-10T13:55:48.878Z"
+  },
+  {
+    "id": 256,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2012-12-22T08:39:21.991Z"
+  },
+  {
+    "id": 257,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2013-06-22T23:54:40.092Z"
+  },
+  {
+    "id": 258,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2019-06-20T00:46:44.659Z"
+  },
+  {
+    "id": 259,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2009-02-15T19:18:30.839Z"
+  },
+  {
+    "id": 260,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2012-11-15T22:02:44.261Z"
+  },
+  {
+    "id": 261,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2019-10-22T11:08:00.284Z"
+  },
+  {
+    "id": 262,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2011-01-10T14:38:53.738Z"
+  },
+  {
+    "id": 263,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2010-06-06T20:56:46.807Z"
+  },
+  {
+    "id": 264,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2004-10-26T23:22:20.862Z"
+  },
+  {
+    "id": 265,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2000-05-14T07:15:34.520Z"
+  },
+  {
+    "id": 266,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2014-05-07T20:55:21.051Z"
+  },
+  {
+    "id": 267,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2021-01-13T23:15:20.425Z"
+  },
+  {
+    "id": 268,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-08-02T16:27:29.511Z"
+  },
+  {
+    "id": 269,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2016-11-19T14:06:23.475Z"
+  },
+  {
+    "id": 270,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2015-12-14T16:38:44.530Z"
+  },
+  {
+    "id": 271,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2017-08-14T10:36:20.907Z"
+  },
+  {
+    "id": 272,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2006-07-13T06:23:21.723Z"
+  },
+  {
+    "id": 273,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2013-08-28T20:31:05.019Z"
+  },
+  {
+    "id": 274,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2020-02-18T04:45:18.587Z"
+  },
+  {
+    "id": 275,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2006-06-01T03:20:28.782Z"
+  },
+  {
+    "id": 276,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2018-05-26T18:38:17.676Z"
+  },
+  {
+    "id": 277,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2001-03-15T04:56:40.616Z"
+  },
+  {
+    "id": 278,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2013-05-09T23:32:59.092Z"
+  },
+  {
+    "id": 279,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2007-08-20T22:24:40.807Z"
+  },
+  {
+    "id": 280,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2019-10-27T17:37:35.171Z"
+  },
+  {
+    "id": 281,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-05-10T03:46:25.569Z"
+  },
+  {
+    "id": 282,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2002-07-30T07:01:36.073Z"
+  },
+  {
+    "id": 283,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2008-04-03T22:29:36.107Z"
+  },
+  {
+    "id": 284,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2017-03-05T21:41:21.708Z"
+  },
+  {
+    "id": 285,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2005-11-10T10:23:19.059Z"
+  },
+  {
+    "id": 286,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2011-11-28T17:30:18.793Z"
+  },
+  {
+    "id": 287,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2008-05-12T18:13:15.021Z"
+  },
+  {
+    "id": 288,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2009-04-29T11:33:21.785Z"
+  },
+  {
+    "id": 289,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2016-06-29T00:01:15.138Z"
+  },
+  {
+    "id": 290,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2001-03-31T20:59:10.736Z"
+  },
+  {
+    "id": 291,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2020-02-21T08:30:10.486Z"
+  },
+  {
+    "id": 292,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2013-06-06T23:10:40.524Z"
+  },
+  {
+    "id": 293,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2020-07-15T22:13:06.530Z"
+  },
+  {
+    "id": 294,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2015-01-25T22:57:58.104Z"
+  },
+  {
+    "id": 295,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-02-24T12:09:08.462Z"
+  },
+  {
+    "id": 296,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2000-05-23T12:37:44.570Z"
+  },
+  {
+    "id": 297,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2017-04-21T14:15:40.321Z"
+  },
+  {
+    "id": 298,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2018-03-24T23:05:54.951Z"
+  },
+  {
+    "id": 299,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2005-10-26T18:48:39.894Z"
+  },
+  {
+    "id": 300,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2009-02-08T19:26:21.307Z"
+  },
+  {
+    "id": 301,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2001-06-19T14:23:29.606Z"
+  },
+  {
+    "id": 302,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2006-10-20T20:32:28.391Z"
+  },
+  {
+    "id": 303,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2003-12-26T02:36:11.812Z"
+  },
+  {
+    "id": 304,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2012-07-30T02:42:04.297Z"
+  },
+  {
+    "id": 305,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2014-11-28T19:38:47.796Z"
+  },
+  {
+    "id": 306,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2014-08-05T17:01:12.323Z"
+  },
+  {
+    "id": 307,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2010-09-07T11:09:04.572Z"
+  },
+  {
+    "id": 308,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2011-12-04T16:32:23.584Z"
+  },
+  {
+    "id": 309,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2004-08-18T03:34:21.771Z"
+  },
+  {
+    "id": 310,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2013-10-07T01:56:01.112Z"
+  },
+  {
+    "id": 311,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2002-04-13T15:15:30.971Z"
+  },
+  {
+    "id": 312,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2016-03-01T13:06:13.663Z"
+  },
+  {
+    "id": 313,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2001-05-12T08:25:04.059Z"
+  },
+  {
+    "id": 314,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2009-05-06T13:10:11.969Z"
+  },
+  {
+    "id": 315,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2011-09-25T02:45:53.384Z"
+  },
+  {
+    "id": 316,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2020-12-13T07:41:39.321Z"
+  },
+  {
+    "id": 317,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2017-10-19T13:42:21.088Z"
+  },
+  {
+    "id": 318,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2014-08-04T22:02:33.963Z"
+  },
+  {
+    "id": 319,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2016-12-17T22:26:27.575Z"
+  },
+  {
+    "id": 320,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2017-12-06T02:18:41.986Z"
+  },
+  {
+    "id": 321,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2018-09-24T16:38:18.250Z"
+  },
+  {
+    "id": 322,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2017-12-20T22:15:12.441Z"
+  },
+  {
+    "id": 323,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2014-09-23T20:05:18.975Z"
+  },
+  {
+    "id": 324,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2009-05-05T00:44:23.424Z"
+  },
+  {
+    "id": 325,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2000-05-14T15:39:06.654Z"
+  },
+  {
+    "id": 326,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2011-08-09T00:49:37.431Z"
+  },
+  {
+    "id": 327,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2013-12-15T11:48:20.924Z"
+  },
+  {
+    "id": 328,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2003-06-26T10:05:59.809Z"
+  },
+  {
+    "id": 329,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2015-03-01T19:57:13.824Z"
+  },
+  {
+    "id": 330,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2017-05-04T20:06:00.986Z"
+  },
+  {
+    "id": 331,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2006-06-17T00:26:19.039Z"
+  },
+  {
+    "id": 332,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2009-10-06T01:10:18.251Z"
+  },
+  {
+    "id": 333,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2018-07-17T16:41:06.818Z"
+  },
+  {
+    "id": 334,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2005-04-04T03:24:08.781Z"
+  },
+  {
+    "id": 335,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2017-10-10T02:55:40.450Z"
+  },
+  {
+    "id": 336,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2001-10-02T11:18:30.717Z"
+  },
+  {
+    "id": 337,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2014-05-28T21:16:13.688Z"
+  },
+  {
+    "id": 338,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2019-10-19T08:23:11.073Z"
+  },
+  {
+    "id": 339,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2012-02-10T23:14:09.534Z"
+  },
+  {
+    "id": 340,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2017-11-14T16:50:49.480Z"
+  },
+  {
+    "id": 341,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2015-09-15T16:14:48.570Z"
+  },
+  {
+    "id": 342,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2015-07-03T09:02:53.781Z"
+  },
+  {
+    "id": 343,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2004-10-14T23:35:47.527Z"
+  },
+  {
+    "id": 344,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2001-02-24T15:19:39.767Z"
+  },
+  {
+    "id": 345,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2006-03-02T09:18:28.104Z"
+  },
+  {
+    "id": 346,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2011-07-29T12:44:57.680Z"
+  },
+  {
+    "id": 347,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2019-11-20T16:46:05.167Z"
+  },
+  {
+    "id": 348,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2020-10-03T20:52:32.651Z"
+  },
+  {
+    "id": 349,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2008-03-28T04:37:11.879Z"
+  },
+  {
+    "id": 350,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2011-04-23T06:11:57.358Z"
+  },
+  {
+    "id": 351,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2014-09-03T22:41:13.518Z"
+  },
+  {
+    "id": 352,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2016-03-07T08:00:30.919Z"
+  },
+  {
+    "id": 353,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2006-07-06T01:36:13.265Z"
+  },
+  {
+    "id": 354,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2016-02-13T22:45:44.201Z"
+  },
+  {
+    "id": 355,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2006-02-19T06:23:50.679Z"
+  },
+  {
+    "id": 356,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2010-10-25T06:36:35.601Z"
+  },
+  {
+    "id": 357,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2009-01-13T00:15:30.750Z"
+  },
+  {
+    "id": 358,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2014-01-18T20:23:06.954Z"
+  },
+  {
+    "id": 359,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2015-08-16T14:17:11.578Z"
+  },
+  {
+    "id": 360,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2003-07-09T19:42:08.446Z"
+  },
+  {
+    "id": 361,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2018-01-06T04:49:16.427Z"
+  },
+  {
+    "id": 362,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2000-04-17T18:46:48.768Z"
+  },
+  {
+    "id": 363,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2004-04-28T22:09:16.350Z"
+  },
+  {
+    "id": 364,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2020-02-20T08:26:33.726Z"
+  },
+  {
+    "id": 365,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2004-08-03T23:29:16.813Z"
+  },
+  {
+    "id": 366,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2005-02-23T21:36:35.739Z"
+  },
+  {
+    "id": 367,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2011-07-23T08:08:11.822Z"
+  },
+  {
+    "id": 368,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2016-09-25T01:55:07.858Z"
+  },
+  {
+    "id": 369,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2016-06-12T02:13:25.156Z"
+  },
+  {
+    "id": 370,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2017-05-20T04:38:46.230Z"
+  },
+  {
+    "id": 371,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2001-04-23T20:19:27.679Z"
+  },
+  {
+    "id": 372,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2013-10-29T11:48:10.784Z"
+  },
+  {
+    "id": 373,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2009-09-07T14:40:36.657Z"
+  },
+  {
+    "id": 374,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2001-09-16T23:24:12.794Z"
+  },
+  {
+    "id": 375,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2004-12-27T11:04:22.053Z"
+  },
+  {
+    "id": 376,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2001-04-02T01:45:37.643Z"
+  },
+  {
+    "id": 377,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2008-02-06T07:30:35.877Z"
+  },
+  {
+    "id": 378,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2015-03-23T17:01:51.016Z"
+  },
+  {
+    "id": 379,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2015-02-11T21:31:18.717Z"
+  },
+  {
+    "id": 380,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2012-10-20T02:39:01.857Z"
+  },
+  {
+    "id": 381,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-11-26T02:43:34.814Z"
+  },
+  {
+    "id": 382,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2015-08-11T08:34:33.594Z"
+  },
+  {
+    "id": 383,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2018-08-17T13:27:47.752Z"
+  },
+  {
+    "id": 384,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2000-05-29T04:12:04.764Z"
+  },
+  {
+    "id": 385,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2016-04-18T04:01:44.948Z"
+  },
+  {
+    "id": 386,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2015-08-28T17:37:56.841Z"
+  },
+  {
+    "id": 387,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2003-01-21T17:05:18.952Z"
+  },
+  {
+    "id": 388,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2005-06-29T19:06:37.015Z"
+  },
+  {
+    "id": 389,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2002-05-29T05:52:07.460Z"
+  },
+  {
+    "id": 390,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2009-02-08T12:20:57.503Z"
+  },
+  {
+    "id": 391,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2013-04-04T22:05:50.087Z"
+  },
+  {
+    "id": 392,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2006-10-18T04:19:35.260Z"
+  },
+  {
+    "id": 393,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2020-07-20T13:36:43.885Z"
+  },
+  {
+    "id": 394,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2018-09-14T02:58:02.215Z"
+  },
+  {
+    "id": 395,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2010-02-02T20:55:58.971Z"
+  },
+  {
+    "id": 396,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2004-05-06T07:58:02.710Z"
+  },
+  {
+    "id": 397,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-04-21T05:48:20.869Z"
+  },
+  {
+    "id": 398,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2014-03-26T13:34:12.942Z"
+  },
+  {
+    "id": 399,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2014-04-27T01:24:42.227Z"
+  },
+  {
+    "id": 400,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2003-06-12T01:08:47.628Z"
+  },
+  {
+    "id": 401,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2011-06-21T09:00:45.913Z"
+  },
+  {
+    "id": 402,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2018-07-05T06:35:48.015Z"
+  },
+  {
+    "id": 403,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2015-05-04T21:14:14.918Z"
+  },
+  {
+    "id": 404,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2011-10-11T15:01:18.366Z"
+  },
+  {
+    "id": 405,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2020-10-23T07:16:28.671Z"
+  },
+  {
+    "id": 406,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2004-09-10T03:44:07.889Z"
+  },
+  {
+    "id": 407,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2010-05-15T23:21:18.426Z"
+  },
+  {
+    "id": 408,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2015-07-30T00:00:46.095Z"
+  },
+  {
+    "id": 409,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2009-12-04T18:48:14.761Z"
+  },
+  {
+    "id": 410,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2012-06-17T07:57:59.922Z"
+  },
+  {
+    "id": 411,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2017-04-15T12:26:02.196Z"
+  },
+  {
+    "id": 412,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2016-08-28T23:18:18.167Z"
+  },
+  {
+    "id": 413,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2020-11-26T20:37:51.857Z"
+  },
+  {
+    "id": 414,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2011-07-17T00:33:21.075Z"
+  },
+  {
+    "id": 415,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2012-09-01T06:39:11.763Z"
+  },
+  {
+    "id": 416,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2000-05-30T18:05:55.850Z"
+  },
+  {
+    "id": 417,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-06-04T23:28:09.310Z"
+  },
+  {
+    "id": 418,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2002-05-05T20:08:23.100Z"
+  },
+  {
+    "id": 419,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2005-04-07T11:05:48.998Z"
+  },
+  {
+    "id": 420,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2009-07-23T15:39:54.104Z"
+  },
+  {
+    "id": 421,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2013-04-10T13:12:48.778Z"
+  },
+  {
+    "id": 422,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2001-03-24T05:57:41.948Z"
+  },
+  {
+    "id": 423,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2002-06-17T20:21:17.623Z"
+  },
+  {
+    "id": 424,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2003-09-20T14:54:46.859Z"
+  },
+  {
+    "id": 425,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2014-10-29T23:30:43.806Z"
+  },
+  {
+    "id": 426,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2017-01-10T11:21:59.407Z"
+  },
+  {
+    "id": 427,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2005-02-01T21:37:51.232Z"
+  },
+  {
+    "id": 428,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2001-06-05T00:16:28.344Z"
+  },
+  {
+    "id": 429,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2010-07-08T17:22:58.146Z"
+  },
+  {
+    "id": 430,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2009-12-31T20:28:16.427Z"
+  },
+  {
+    "id": 431,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2001-04-06T18:09:17.745Z"
+  },
+  {
+    "id": 432,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2004-06-17T02:49:54.377Z"
+  },
+  {
+    "id": 433,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2017-04-27T01:07:45.540Z"
+  },
+  {
+    "id": 434,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2009-02-27T05:51:39.922Z"
+  },
+  {
+    "id": 435,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2001-07-02T15:35:10.941Z"
+  },
+  {
+    "id": 436,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2005-07-19T04:06:43.994Z"
+  },
+  {
+    "id": 437,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2015-08-10T22:36:13.032Z"
+  },
+  {
+    "id": 438,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2015-07-24T04:31:53.902Z"
+  },
+  {
+    "id": 439,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2018-07-09T20:54:20.100Z"
+  },
+  {
+    "id": 440,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2004-02-09T23:01:20.066Z"
+  },
+  {
+    "id": 441,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2015-12-06T18:25:40.004Z"
+  },
+  {
+    "id": 442,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2001-12-28T01:46:13.202Z"
+  },
+  {
+    "id": 443,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2016-12-01T01:21:15.639Z"
+  },
+  {
+    "id": 444,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2018-01-28T05:25:59.514Z"
+  },
+  {
+    "id": 445,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2007-03-18T01:05:36.796Z"
+  },
+  {
+    "id": 446,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2004-07-04T10:52:25.267Z"
+  },
+  {
+    "id": 447,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2018-11-11T09:38:04.700Z"
+  },
+  {
+    "id": 448,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2016-05-02T14:50:39.016Z"
+  },
+  {
+    "id": 449,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2008-07-15T12:49:24.137Z"
+  },
+  {
+    "id": 450,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2015-07-02T17:18:35.856Z"
+  },
+  {
+    "id": 451,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2012-01-20T04:22:59.004Z"
+  },
+  {
+    "id": 452,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2002-05-11T17:37:18.177Z"
+  },
+  {
+    "id": 453,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2013-07-05T17:15:46.574Z"
+  },
+  {
+    "id": 454,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2004-10-26T16:20:34.485Z"
+  },
+  {
+    "id": 455,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2011-08-07T21:36:12.569Z"
+  },
+  {
+    "id": 456,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2008-06-15T05:27:42.574Z"
+  },
+  {
+    "id": 457,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2005-02-09T18:39:48.509Z"
+  },
+  {
+    "id": 458,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2018-09-06T05:42:32.050Z"
+  },
+  {
+    "id": 459,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2018-11-14T04:08:15.707Z"
+  },
+  {
+    "id": 460,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2019-04-08T10:00:27.694Z"
+  },
+  {
+    "id": 461,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2020-12-23T16:11:51.519Z"
+  },
+  {
+    "id": 462,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2010-07-23T03:30:22.495Z"
+  },
+  {
+    "id": 463,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2016-02-14T12:47:02.086Z"
+  },
+  {
+    "id": 464,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-09-14T13:10:22.975Z"
+  },
+  {
+    "id": 465,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2020-09-01T23:11:52.331Z"
+  },
+  {
+    "id": 466,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2008-04-04T13:21:28.518Z"
+  },
+  {
+    "id": 467,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2014-10-26T21:51:47.147Z"
+  },
+  {
+    "id": 468,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2004-12-21T22:36:11.602Z"
+  },
+  {
+    "id": 469,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2020-01-09T14:21:27.779Z"
+  },
+  {
+    "id": 470,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2002-04-13T07:51:45.402Z"
+  },
+  {
+    "id": 471,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2000-04-22T06:22:51.357Z"
+  },
+  {
+    "id": 472,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2007-06-03T11:29:47.923Z"
+  },
+  {
+    "id": 473,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2012-11-14T19:48:00.232Z"
+  },
+  {
+    "id": 474,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2005-07-04T01:33:22.679Z"
+  },
+  {
+    "id": 475,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2006-05-11T19:41:41.516Z"
+  },
+  {
+    "id": 476,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2014-11-10T22:45:09.435Z"
+  },
+  {
+    "id": 477,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2002-10-20T18:38:44.692Z"
+  },
+  {
+    "id": 478,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2015-11-12T22:24:14.854Z"
+  },
+  {
+    "id": 479,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2005-09-06T11:16:32.197Z"
+  },
+  {
+    "id": 480,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2001-12-18T22:50:37.870Z"
+  },
+  {
+    "id": 481,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2000-07-15T11:52:10.409Z"
+  },
+  {
+    "id": 482,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2002-06-23T05:16:44.472Z"
+  },
+  {
+    "id": 483,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2008-03-07T15:20:23.133Z"
+  },
+  {
+    "id": 484,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2000-06-28T00:07:03.952Z"
+  },
+  {
+    "id": 485,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2014-08-07T03:42:18.396Z"
+  },
+  {
+    "id": 486,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2018-05-17T04:48:32.260Z"
+  },
+  {
+    "id": 487,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2017-08-10T03:39:19.417Z"
+  },
+  {
+    "id": 488,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2020-02-18T00:39:01.941Z"
+  },
+  {
+    "id": 489,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2007-06-15T17:35:52.422Z"
+  },
+  {
+    "id": 490,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2009-06-05T00:01:05.188Z"
+  },
+  {
+    "id": 491,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2004-05-22T22:52:40.175Z"
+  },
+  {
+    "id": 492,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2004-07-05T17:50:07.598Z"
+  },
+  {
+    "id": 493,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2015-02-09T20:42:47.306Z"
+  },
+  {
+    "id": 494,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2002-01-01T03:12:07.023Z"
+  },
+  {
+    "id": 495,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2005-02-14T07:20:27.736Z"
+  },
+  {
+    "id": 496,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2008-07-01T23:08:06.918Z"
+  },
+  {
+    "id": 497,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2002-07-22T00:22:04.731Z"
+  },
+  {
+    "id": 498,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2004-07-26T13:10:43.757Z"
+  },
+  {
+    "id": 499,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2013-02-21T16:06:48.713Z"
+  },
+  {
+    "id": 500,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2014-09-27T10:58:59.232Z"
+  },
+  {
+    "id": 501,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-01-12T13:01:33.473Z"
+  },
+  {
+    "id": 502,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2019-02-13T14:33:47.899Z"
+  },
+  {
+    "id": 503,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2016-09-01T20:57:53.248Z"
+  },
+  {
+    "id": 504,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2002-06-15T03:34:22.690Z"
+  },
+  {
+    "id": 505,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2002-03-12T11:50:03.267Z"
+  },
+  {
+    "id": 506,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2012-12-15T16:03:12.838Z"
+  },
+  {
+    "id": 507,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2007-02-19T00:58:35.247Z"
+  },
+  {
+    "id": 508,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2017-12-18T06:03:12.971Z"
+  },
+  {
+    "id": 509,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2009-12-03T23:44:21.133Z"
+  },
+  {
+    "id": 510,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2005-01-05T10:08:01.331Z"
+  },
+  {
+    "id": 511,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2003-08-22T08:36:56.878Z"
+  },
+  {
+    "id": 512,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2015-09-06T10:18:29.314Z"
+  },
+  {
+    "id": 513,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2013-03-05T09:47:30.789Z"
+  },
+  {
+    "id": 514,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2007-08-31T01:49:52.890Z"
+  },
+  {
+    "id": 515,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2011-08-08T04:52:18.346Z"
+  },
+  {
+    "id": 516,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2009-12-11T18:46:27.411Z"
+  },
+  {
+    "id": 517,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-06-22T15:15:47.610Z"
+  },
+  {
+    "id": 518,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2014-06-04T20:38:20.764Z"
+  },
+  {
+    "id": 519,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2001-01-29T01:43:13.715Z"
+  },
+  {
+    "id": 520,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-06-09T15:14:31.236Z"
+  },
+  {
+    "id": 521,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2009-06-03T16:13:11.863Z"
+  },
+  {
+    "id": 522,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2000-05-19T02:18:12.562Z"
+  },
+  {
+    "id": 523,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2009-07-03T10:55:14.539Z"
+  },
+  {
+    "id": 524,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2008-08-20T18:29:48.245Z"
+  },
+  {
+    "id": 525,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2003-07-10T06:30:54.317Z"
+  },
+  {
+    "id": 526,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2013-03-20T17:42:54.870Z"
+  },
+  {
+    "id": 527,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2006-12-06T12:02:38.687Z"
+  },
+  {
+    "id": 528,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2006-01-30T17:22:20.880Z"
+  },
+  {
+    "id": 529,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2016-11-14T00:56:20.942Z"
+  },
+  {
+    "id": 530,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2017-12-09T13:41:44.786Z"
+  },
+  {
+    "id": 531,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2017-09-13T20:18:37.128Z"
+  },
+  {
+    "id": 532,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2012-02-21T02:44:09.654Z"
+  },
+  {
+    "id": 533,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2019-05-28T03:10:03.828Z"
+  },
+  {
+    "id": 534,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2017-05-29T14:10:57.967Z"
+  },
+  {
+    "id": 535,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2016-04-19T01:30:02.902Z"
+  },
+  {
+    "id": 536,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2003-04-25T04:10:34.094Z"
+  },
+  {
+    "id": 537,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2020-09-04T13:28:28.144Z"
+  },
+  {
+    "id": 538,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2008-06-25T01:46:38.749Z"
+  },
+  {
+    "id": 539,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2008-05-30T09:19:19.168Z"
+  },
+  {
+    "id": 540,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2019-09-04T13:24:33.397Z"
+  },
+  {
+    "id": 541,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2000-12-30T12:17:43.194Z"
+  },
+  {
+    "id": 542,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2017-12-28T04:10:07.779Z"
+  },
+  {
+    "id": 543,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2007-02-21T00:59:45.972Z"
+  },
+  {
+    "id": 544,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2004-02-19T11:59:48.888Z"
+  },
+  {
+    "id": 545,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2010-02-22T17:40:36.581Z"
+  },
+  {
+    "id": 546,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2003-11-16T16:14:20.693Z"
+  },
+  {
+    "id": 547,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2012-09-15T15:23:05.683Z"
+  },
+  {
+    "id": 548,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2003-09-26T22:38:33.765Z"
+  },
+  {
+    "id": 549,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2016-11-24T11:18:42.203Z"
+  },
+  {
+    "id": 550,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2005-12-25T08:04:50.220Z"
+  },
+  {
+    "id": 551,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2009-01-12T09:05:24.182Z"
+  },
+  {
+    "id": 552,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2009-12-25T02:30:17.315Z"
+  },
+  {
+    "id": 553,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2009-07-08T17:01:12.462Z"
+  },
+  {
+    "id": 554,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2003-05-25T14:40:23.899Z"
+  },
+  {
+    "id": 555,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2018-07-31T10:55:51.090Z"
+  },
+  {
+    "id": 556,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2014-04-25T18:52:01.482Z"
+  },
+  {
+    "id": 557,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2017-12-14T07:17:22.734Z"
+  },
+  {
+    "id": 558,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2016-04-10T00:41:26.244Z"
+  },
+  {
+    "id": 559,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2008-04-05T14:40:08.385Z"
+  },
+  {
+    "id": 560,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2007-03-16T04:07:58.900Z"
+  },
+  {
+    "id": 561,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2012-06-23T18:18:19.324Z"
+  },
+  {
+    "id": 562,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2013-05-17T20:42:52.120Z"
+  },
+  {
+    "id": 563,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2017-05-25T20:16:41.804Z"
+  },
+  {
+    "id": 564,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2017-11-25T20:33:51.936Z"
+  },
+  {
+    "id": 565,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2019-05-04T04:05:52.884Z"
+  },
+  {
+    "id": 566,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2010-05-10T04:05:17.393Z"
+  },
+  {
+    "id": 567,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2011-12-23T13:04:27.959Z"
+  },
+  {
+    "id": 568,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2018-08-18T07:29:34.192Z"
+  },
+  {
+    "id": 569,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2010-05-21T17:13:05.474Z"
+  },
+  {
+    "id": 570,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2007-11-19T22:42:37.266Z"
+  },
+  {
+    "id": 571,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2011-09-28T00:56:04.347Z"
+  },
+  {
+    "id": 572,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2017-02-03T04:32:20.167Z"
+  },
+  {
+    "id": 573,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2003-01-17T22:14:19.367Z"
+  },
+  {
+    "id": 574,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2007-01-17T22:46:29.323Z"
+  },
+  {
+    "id": 575,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2016-02-10T23:29:45.259Z"
+  },
+  {
+    "id": 576,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2008-10-23T05:57:25.372Z"
+  },
+  {
+    "id": 577,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2020-05-08T15:53:10.906Z"
+  },
+  {
+    "id": 578,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2011-10-07T20:15:03.749Z"
+  },
+  {
+    "id": 579,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2001-04-26T15:04:12.218Z"
+  },
+  {
+    "id": 580,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2015-03-25T12:20:16.688Z"
+  },
+  {
+    "id": 581,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2005-12-20T11:44:19.711Z"
+  },
+  {
+    "id": 582,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2003-07-01T05:34:30.658Z"
+  },
+  {
+    "id": 583,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2016-05-10T07:27:31.102Z"
+  },
+  {
+    "id": 584,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2018-04-05T05:06:56.944Z"
+  },
+  {
+    "id": 585,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2008-01-31T12:13:54.179Z"
+  },
+  {
+    "id": 586,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2000-03-24T15:45:16.039Z"
+  },
+  {
+    "id": 587,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2001-01-17T16:10:19.778Z"
+  },
+  {
+    "id": 588,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2011-10-16T17:39:01.325Z"
+  },
+  {
+    "id": 589,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2017-11-17T14:56:05.188Z"
+  },
+  {
+    "id": 590,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2013-08-18T14:25:01.739Z"
+  },
+  {
+    "id": 591,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2016-03-02T00:33:05.170Z"
+  },
+  {
+    "id": 592,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2015-06-12T17:18:13.384Z"
+  },
+  {
+    "id": 593,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2010-08-05T05:13:19.427Z"
+  },
+  {
+    "id": 594,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2008-11-30T23:11:08.645Z"
+  },
+  {
+    "id": 595,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2008-04-15T02:35:32.587Z"
+  },
+  {
+    "id": 596,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-03-02T13:03:47.599Z"
+  },
+  {
+    "id": 597,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2014-03-20T11:03:57.575Z"
+  },
+  {
+    "id": 598,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2019-02-06T22:32:54.723Z"
+  },
+  {
+    "id": 599,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2007-03-29T22:55:00.501Z"
+  },
+  {
+    "id": 600,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2000-06-11T19:44:38.271Z"
+  },
+  {
+    "id": 601,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2015-10-12T20:56:27.497Z"
+  },
+  {
+    "id": 602,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2019-12-05T11:49:39.373Z"
+  },
+  {
+    "id": 603,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2012-12-05T02:13:26.931Z"
+  },
+  {
+    "id": 604,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2007-04-01T18:48:32.317Z"
+  },
+  {
+    "id": 605,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2017-05-26T09:07:10.920Z"
+  },
+  {
+    "id": 606,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2020-04-04T08:08:20.362Z"
+  },
+  {
+    "id": 607,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2007-03-18T14:18:15.292Z"
+  },
+  {
+    "id": 608,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2018-03-30T18:43:18.989Z"
+  },
+  {
+    "id": 609,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2018-05-14T06:13:13.975Z"
+  },
+  {
+    "id": 610,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2017-12-09T16:06:09.418Z"
+  },
+  {
+    "id": 611,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2013-04-14T19:18:10.630Z"
+  },
+  {
+    "id": 612,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2005-03-06T22:52:10.945Z"
+  },
+  {
+    "id": 613,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2010-06-05T09:40:50.992Z"
+  },
+  {
+    "id": 614,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2012-01-26T12:59:13.752Z"
+  },
+  {
+    "id": 615,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2012-11-19T15:12:21.085Z"
+  },
+  {
+    "id": 616,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2014-11-17T06:02:07.715Z"
+  },
+  {
+    "id": 617,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2005-04-06T09:38:37.838Z"
+  },
+  {
+    "id": 618,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2020-09-22T02:44:19.790Z"
+  },
+  {
+    "id": 619,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2013-12-04T11:28:07.027Z"
+  },
+  {
+    "id": 620,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2007-03-03T07:32:35.534Z"
+  },
+  {
+    "id": 621,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2015-07-13T20:43:25.873Z"
+  },
+  {
+    "id": 622,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2017-03-03T15:50:18.259Z"
+  },
+  {
+    "id": 623,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2002-07-22T15:45:12.833Z"
+  },
+  {
+    "id": 624,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2011-12-05T13:59:37.384Z"
+  },
+  {
+    "id": 625,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2004-03-23T12:27:05.093Z"
+  },
+  {
+    "id": 626,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2019-07-29T18:46:58.605Z"
+  },
+  {
+    "id": 627,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2001-02-04T03:12:37.937Z"
+  },
+  {
+    "id": 628,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2017-08-27T13:11:05.192Z"
+  },
+  {
+    "id": 629,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2010-08-24T11:47:12.560Z"
+  },
+  {
+    "id": 630,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2002-08-19T09:23:54.827Z"
+  },
+  {
+    "id": 631,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2002-07-06T09:56:50.865Z"
+  },
+  {
+    "id": 632,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2004-02-18T19:15:16.855Z"
+  },
+  {
+    "id": 633,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2003-03-11T19:32:06.435Z"
+  },
+  {
+    "id": 634,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2012-05-12T15:16:23.288Z"
+  },
+  {
+    "id": 635,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2018-03-16T16:38:51.775Z"
+  },
+  {
+    "id": 636,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2007-10-18T04:39:55.499Z"
+  },
+  {
+    "id": 637,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2020-04-12T18:22:10.318Z"
+  },
+  {
+    "id": 638,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2014-05-08T14:36:32.800Z"
+  },
+  {
+    "id": 639,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2004-06-16T01:26:24.894Z"
+  },
+  {
+    "id": 640,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2000-02-28T14:49:57.318Z"
+  },
+  {
+    "id": 641,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2008-07-02T04:59:12.875Z"
+  },
+  {
+    "id": 642,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2019-02-15T19:41:52.683Z"
+  },
+  {
+    "id": 643,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2000-12-26T11:25:00.344Z"
+  },
+  {
+    "id": 644,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2009-06-17T22:37:07.519Z"
+  },
+  {
+    "id": 645,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2017-02-12T14:09:58.104Z"
+  },
+  {
+    "id": 646,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2005-11-08T23:29:59.022Z"
+  },
+  {
+    "id": 647,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2007-12-04T05:10:08.337Z"
+  },
+  {
+    "id": 648,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2011-07-30T23:40:11.247Z"
+  },
+  {
+    "id": 649,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2004-09-12T11:05:02.853Z"
+  },
+  {
+    "id": 650,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2015-03-14T17:21:16.186Z"
+  },
+  {
+    "id": 651,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2012-05-12T03:59:22.713Z"
+  },
+  {
+    "id": 652,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2010-07-25T04:47:37.334Z"
+  },
+  {
+    "id": 653,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2013-09-13T21:15:03.053Z"
+  },
+  {
+    "id": 654,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2013-09-15T18:23:48.020Z"
+  },
+  {
+    "id": 655,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2015-01-22T10:30:49.477Z"
+  },
+  {
+    "id": 656,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2001-11-22T09:28:36.795Z"
+  },
+  {
+    "id": 657,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2000-01-29T15:20:51.680Z"
+  },
+  {
+    "id": 658,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2019-09-20T09:30:13.282Z"
+  },
+  {
+    "id": 659,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2007-01-02T16:35:53.191Z"
+  },
+  {
+    "id": 660,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2008-12-06T02:21:55.915Z"
+  },
+  {
+    "id": 661,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2017-02-16T15:12:14.363Z"
+  },
+  {
+    "id": 662,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2004-02-09T09:29:32.395Z"
+  },
+  {
+    "id": 663,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2017-07-05T01:51:10.799Z"
+  },
+  {
+    "id": 664,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2002-01-08T15:23:02.242Z"
+  },
+  {
+    "id": 665,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2009-11-16T18:52:29.696Z"
+  },
+  {
+    "id": 666,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2020-08-29T13:14:09.732Z"
+  },
+  {
+    "id": 667,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2012-06-21T12:19:26.665Z"
+  },
+  {
+    "id": 668,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2004-09-27T00:04:06.973Z"
+  },
+  {
+    "id": 669,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2020-04-01T17:20:43.701Z"
+  },
+  {
+    "id": 670,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2007-08-29T09:39:28.974Z"
+  },
+  {
+    "id": 671,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2007-06-09T13:08:01.551Z"
+  },
+  {
+    "id": 672,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2005-09-09T21:55:22.278Z"
+  },
+  {
+    "id": 673,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2017-01-13T17:11:48.748Z"
+  },
+  {
+    "id": 674,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2005-04-12T07:02:25.090Z"
+  },
+  {
+    "id": 675,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2007-12-17T17:57:09.109Z"
+  },
+  {
+    "id": 676,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2019-01-17T19:25:47.196Z"
+  },
+  {
+    "id": 677,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2016-10-30T08:38:13.834Z"
+  },
+  {
+    "id": 678,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2020-12-24T23:59:49.848Z"
+  },
+  {
+    "id": 679,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2000-04-29T07:02:42.790Z"
+  },
+  {
+    "id": 680,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2016-03-02T07:55:22.238Z"
+  },
+  {
+    "id": 681,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2010-02-03T06:57:34.741Z"
+  },
+  {
+    "id": 682,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2016-04-24T04:29:13.544Z"
+  },
+  {
+    "id": 683,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2019-01-06T10:59:19.033Z"
+  },
+  {
+    "id": 684,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2005-02-21T05:28:11.266Z"
+  },
+  {
+    "id": 685,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2011-05-13T12:14:23.297Z"
+  },
+  {
+    "id": 686,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2013-04-15T15:58:47.754Z"
+  },
+  {
+    "id": 687,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2003-05-07T08:23:47.620Z"
+  },
+  {
+    "id": 688,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2009-06-01T11:58:14.621Z"
+  },
+  {
+    "id": 689,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2003-04-10T10:25:59.516Z"
+  },
+  {
+    "id": 690,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2005-09-07T03:04:32.849Z"
+  },
+  {
+    "id": 691,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2011-02-23T04:07:47.094Z"
+  },
+  {
+    "id": 692,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2004-06-12T15:37:04.933Z"
+  },
+  {
+    "id": 693,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2013-12-25T20:44:54.687Z"
+  },
+  {
+    "id": 694,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2007-10-04T14:41:46.720Z"
+  },
+  {
+    "id": 695,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2006-11-29T04:32:43.232Z"
+  },
+  {
+    "id": 696,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2001-02-27T21:12:18.354Z"
+  },
+  {
+    "id": 697,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2007-08-03T05:28:34.912Z"
+  },
+  {
+    "id": 698,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2010-08-13T07:11:26.490Z"
+  },
+  {
+    "id": 699,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2007-09-30T10:14:21.374Z"
+  },
+  {
+    "id": 700,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2016-05-25T09:36:34.303Z"
+  },
+  {
+    "id": 701,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2015-04-20T17:24:23.700Z"
+  },
+  {
+    "id": 702,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2003-05-19T17:17:08.391Z"
+  },
+  {
+    "id": 703,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2018-02-20T12:58:56.497Z"
+  },
+  {
+    "id": 704,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2016-10-17T10:17:03.834Z"
+  },
+  {
+    "id": 705,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2016-01-25T02:22:56.724Z"
+  },
+  {
+    "id": 706,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2013-06-22T01:19:01.990Z"
+  },
+  {
+    "id": 707,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2019-01-17T21:51:35.514Z"
+  },
+  {
+    "id": 708,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2001-10-06T08:17:20.373Z"
+  },
+  {
+    "id": 709,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2014-06-08T08:25:37.612Z"
+  },
+  {
+    "id": 710,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2004-08-04T08:27:36.680Z"
+  },
+  {
+    "id": 711,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2000-10-19T04:17:34.456Z"
+  },
+  {
+    "id": 712,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2000-05-20T15:43:18.398Z"
+  },
+  {
+    "id": 713,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2007-04-25T07:30:51.991Z"
+  },
+  {
+    "id": 714,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2010-10-17T03:24:17.331Z"
+  },
+  {
+    "id": 715,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2016-01-08T01:43:18.482Z"
+  },
+  {
+    "id": 716,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2012-05-13T00:19:33.437Z"
+  },
+  {
+    "id": 717,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2019-01-06T20:28:09.193Z"
+  },
+  {
+    "id": 718,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2020-10-30T06:02:43.478Z"
+  },
+  {
+    "id": 719,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2000-03-11T23:23:48.023Z"
+  },
+  {
+    "id": 720,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2002-11-21T06:43:58.279Z"
+  },
+  {
+    "id": 721,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2018-09-16T03:42:57.383Z"
+  },
+  {
+    "id": 722,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2019-04-15T09:10:45.216Z"
+  },
+  {
+    "id": 723,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2009-01-27T11:21:31.981Z"
+  },
+  {
+    "id": 724,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2008-10-12T01:16:10.751Z"
+  },
+  {
+    "id": 725,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2006-12-14T08:09:48.503Z"
+  },
+  {
+    "id": 726,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2018-02-19T22:45:19.693Z"
+  },
+  {
+    "id": 727,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2010-04-01T00:43:01.967Z"
+  },
+  {
+    "id": 728,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2006-02-04T13:35:57.995Z"
+  },
+  {
+    "id": 729,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2010-08-04T14:34:29.098Z"
+  },
+  {
+    "id": 730,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2006-02-01T04:21:45.812Z"
+  },
+  {
+    "id": 731,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2012-05-13T07:06:48.911Z"
+  },
+  {
+    "id": 732,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2012-10-27T15:47:08.938Z"
+  },
+  {
+    "id": 733,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2008-07-06T10:30:18.618Z"
+  },
+  {
+    "id": 734,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2013-12-10T00:08:45.834Z"
+  },
+  {
+    "id": 735,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2004-11-14T23:43:18.228Z"
+  },
+  {
+    "id": 736,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2006-08-14T08:11:14.771Z"
+  },
+  {
+    "id": 737,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2017-08-06T17:07:43.506Z"
+  },
+  {
+    "id": 738,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2011-03-30T06:49:53.911Z"
+  },
+  {
+    "id": 739,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2017-12-04T05:41:43.058Z"
+  },
+  {
+    "id": 740,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2005-01-09T01:54:38.241Z"
+  },
+  {
+    "id": 741,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2016-01-03T07:26:46.578Z"
+  },
+  {
+    "id": 742,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2006-08-21T09:56:26.942Z"
+  },
+  {
+    "id": 743,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2016-01-28T07:14:25.474Z"
+  },
+  {
+    "id": 744,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2002-09-23T23:48:03.973Z"
+  },
+  {
+    "id": 745,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2004-05-31T13:09:07.446Z"
+  },
+  {
+    "id": 746,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2014-05-04T17:36:16.518Z"
+  },
+  {
+    "id": 747,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2003-07-03T07:24:38.851Z"
+  },
+  {
+    "id": 748,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2002-11-25T04:32:15.273Z"
+  },
+  {
+    "id": 749,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2005-08-31T22:32:48.083Z"
+  },
+  {
+    "id": 750,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2012-05-16T03:42:19.188Z"
+  },
+  {
+    "id": 751,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2004-04-30T14:36:08.103Z"
+  },
+  {
+    "id": 752,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2005-02-20T08:37:50.955Z"
+  },
+  {
+    "id": 753,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2019-10-14T05:37:34.411Z"
+  },
+  {
+    "id": 754,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2006-08-26T02:55:33.783Z"
+  },
+  {
+    "id": 755,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2018-02-03T12:20:05.605Z"
+  },
+  {
+    "id": 756,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2018-12-19T15:07:41.452Z"
+  },
+  {
+    "id": 757,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2018-03-17T15:40:29.558Z"
+  },
+  {
+    "id": 758,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2004-11-22T19:59:48.032Z"
+  },
+  {
+    "id": 759,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2011-02-03T23:17:58.898Z"
+  },
+  {
+    "id": 760,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2010-04-22T13:59:26.618Z"
+  },
+  {
+    "id": 761,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2020-12-09T12:49:17.372Z"
+  },
+  {
+    "id": 762,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2001-01-04T09:38:19.476Z"
+  },
+  {
+    "id": 763,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2014-02-26T08:50:10.678Z"
+  },
+  {
+    "id": 764,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2005-09-04T03:50:23.488Z"
+  },
+  {
+    "id": 765,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2012-08-12T19:43:25.027Z"
+  },
+  {
+    "id": 766,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2015-11-05T14:40:47.898Z"
+  },
+  {
+    "id": 767,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2013-02-06T13:04:36.224Z"
+  },
+  {
+    "id": 768,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2008-05-26T01:09:47.554Z"
+  },
+  {
+    "id": 769,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2000-03-19T18:02:39.204Z"
+  },
+  {
+    "id": 770,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2005-07-29T09:50:29.913Z"
+  },
+  {
+    "id": 771,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2007-04-21T00:38:31.305Z"
+  },
+  {
+    "id": 772,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2017-08-31T02:54:22.141Z"
+  },
+  {
+    "id": 773,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2012-02-17T23:53:37.427Z"
+  },
+  {
+    "id": 774,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2002-10-05T18:37:23.172Z"
+  },
+  {
+    "id": 775,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2009-11-28T20:50:02.503Z"
+  },
+  {
+    "id": 776,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2003-12-15T04:11:48.535Z"
+  },
+  {
+    "id": 777,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2007-08-07T15:36:08.085Z"
+  },
+  {
+    "id": 778,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2015-12-29T16:46:18.012Z"
+  },
+  {
+    "id": 779,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2012-09-13T21:49:26.622Z"
+  },
+  {
+    "id": 780,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2002-06-22T15:41:57.081Z"
+  },
+  {
+    "id": 781,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2014-02-07T02:41:53.596Z"
+  },
+  {
+    "id": 782,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2021-01-14T07:13:27.827Z"
+  },
+  {
+    "id": 783,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2012-09-29T04:32:50.711Z"
+  },
+  {
+    "id": 784,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2006-10-11T05:32:25.538Z"
+  },
+  {
+    "id": 785,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2005-05-12T03:02:19.849Z"
+  },
+  {
+    "id": 786,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2014-12-10T09:40:58.408Z"
+  },
+  {
+    "id": 787,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2004-02-11T17:30:34.230Z"
+  },
+  {
+    "id": 788,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2018-02-12T09:57:48.257Z"
+  },
+  {
+    "id": 789,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2013-05-16T17:47:17.669Z"
+  },
+  {
+    "id": 790,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2015-03-18T04:14:37.219Z"
+  },
+  {
+    "id": 791,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2013-01-02T23:52:41.629Z"
+  },
+  {
+    "id": 792,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2003-06-05T16:36:08.883Z"
+  },
+  {
+    "id": 793,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2013-04-21T07:34:19.335Z"
+  },
+  {
+    "id": 794,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2016-04-18T10:08:15.636Z"
+  },
+  {
+    "id": 795,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2014-05-09T07:26:56.136Z"
+  },
+  {
+    "id": 796,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2013-02-06T07:01:03.725Z"
+  },
+  {
+    "id": 797,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2014-08-14T05:03:27.663Z"
+  },
+  {
+    "id": 798,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2016-03-21T17:32:12.313Z"
+  },
+  {
+    "id": 799,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2000-04-04T15:42:03.497Z"
+  },
+  {
+    "id": 800,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2008-09-04T15:41:45.133Z"
+  },
+  {
+    "id": 801,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2007-12-14T12:50:38.666Z"
+  },
+  {
+    "id": 802,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2010-07-25T15:47:21.601Z"
+  },
+  {
+    "id": 803,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2001-03-06T23:57:52.311Z"
+  },
+  {
+    "id": 804,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2015-05-14T16:01:45.573Z"
+  },
+  {
+    "id": 805,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2016-11-06T10:23:35.603Z"
+  },
+  {
+    "id": 806,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2002-01-28T22:06:05.245Z"
+  },
+  {
+    "id": 807,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2015-06-29T17:46:25.412Z"
+  },
+  {
+    "id": 808,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2016-01-22T05:46:10.542Z"
+  },
+  {
+    "id": 809,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2019-07-07T12:34:46.054Z"
+  },
+  {
+    "id": 810,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2007-03-05T16:57:21.583Z"
+  },
+  {
+    "id": 811,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2011-02-20T01:40:49.886Z"
+  },
+  {
+    "id": 812,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2019-09-24T16:14:39.387Z"
+  },
+  {
+    "id": 813,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2013-06-06T00:28:09.136Z"
+  },
+  {
+    "id": 814,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2005-06-08T13:18:45.223Z"
+  },
+  {
+    "id": 815,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2004-08-07T15:10:00.550Z"
+  },
+  {
+    "id": 816,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2010-11-06T11:23:20.490Z"
+  },
+  {
+    "id": 817,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2013-07-13T19:41:00.231Z"
+  },
+  {
+    "id": 818,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2003-08-04T06:00:06.753Z"
+  },
+  {
+    "id": 819,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2009-05-27T19:05:52.417Z"
+  },
+  {
+    "id": 820,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2018-05-21T14:30:54.900Z"
+  },
+  {
+    "id": 821,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2007-03-03T12:08:40.353Z"
+  },
+  {
+    "id": 822,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2014-08-16T13:49:30.375Z"
+  },
+  {
+    "id": 823,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2012-09-19T10:49:49.669Z"
+  },
+  {
+    "id": 824,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2013-11-10T03:51:49.533Z"
+  },
+  {
+    "id": 825,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2009-04-05T00:07:17.499Z"
+  },
+  {
+    "id": 826,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2012-08-18T10:01:52.724Z"
+  },
+  {
+    "id": 827,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2012-01-02T21:23:09.900Z"
+  },
+  {
+    "id": 828,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2013-08-10T07:32:14.443Z"
+  },
+  {
+    "id": 829,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2002-02-01T09:05:06.283Z"
+  },
+  {
+    "id": 830,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2005-08-18T18:32:13.546Z"
+  },
+  {
+    "id": 831,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2015-10-10T23:00:14.010Z"
+  },
+  {
+    "id": 832,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2017-11-28T07:51:12.593Z"
+  },
+  {
+    "id": 833,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2005-07-08T23:20:52.912Z"
+  },
+  {
+    "id": 834,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2000-11-03T10:18:48.090Z"
+  },
+  {
+    "id": 835,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2007-02-26T16:48:44.500Z"
+  },
+  {
+    "id": 836,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2003-04-07T06:38:03.227Z"
+  },
+  {
+    "id": 837,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2017-08-01T01:00:20.582Z"
+  },
+  {
+    "id": 838,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2002-01-09T08:10:03.739Z"
+  },
+  {
+    "id": 839,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2009-03-19T18:46:43.753Z"
+  },
+  {
+    "id": 840,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2017-02-03T04:16:37.393Z"
+  },
+  {
+    "id": 841,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2001-05-02T19:14:08.102Z"
+  },
+  {
+    "id": 842,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2001-05-06T10:10:13.287Z"
+  },
+  {
+    "id": 843,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2020-03-07T06:04:06.063Z"
+  },
+  {
+    "id": 844,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2014-01-04T23:43:39.746Z"
+  },
+  {
+    "id": 845,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2005-04-29T01:07:30.657Z"
+  },
+  {
+    "id": 846,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2008-11-20T10:31:00.312Z"
+  },
+  {
+    "id": 847,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2005-05-22T12:12:24.471Z"
+  },
+  {
+    "id": 848,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2011-07-31T14:30:24.400Z"
+  },
+  {
+    "id": 849,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2013-06-15T22:41:18.856Z"
+  },
+  {
+    "id": 850,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2010-01-11T19:09:40.824Z"
+  },
+  {
+    "id": 851,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2017-02-23T08:45:20.779Z"
+  },
+  {
+    "id": 852,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2002-05-13T19:36:51.240Z"
+  },
+  {
+    "id": 853,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2000-06-23T15:08:40.978Z"
+  },
+  {
+    "id": 854,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2014-07-11T21:25:16.411Z"
+  },
+  {
+    "id": 855,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2020-12-18T22:23:07.831Z"
+  },
+  {
+    "id": 856,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2000-03-23T17:05:58.737Z"
+  },
+  {
+    "id": 857,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2000-05-21T04:19:00.891Z"
+  },
+  {
+    "id": 858,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2012-03-26T21:28:11.142Z"
+  },
+  {
+    "id": 859,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2008-08-06T06:18:10.675Z"
+  },
+  {
+    "id": 860,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2020-10-02T16:40:41.765Z"
+  },
+  {
+    "id": 861,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2019-08-31T17:34:44.135Z"
+  },
+  {
+    "id": 862,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2016-06-30T05:05:11.464Z"
+  },
+  {
+    "id": 863,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2001-12-10T19:48:45.398Z"
+  },
+  {
+    "id": 864,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2006-07-31T00:57:56.740Z"
+  },
+  {
+    "id": 865,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2006-07-20T03:46:35.907Z"
+  },
+  {
+    "id": 866,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2014-10-24T11:03:11.668Z"
+  },
+  {
+    "id": 867,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2008-06-03T17:44:15.100Z"
+  },
+  {
+    "id": 868,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2019-08-24T06:51:43.232Z"
+  },
+  {
+    "id": 869,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2010-03-02T17:03:01.374Z"
+  },
+  {
+    "id": 870,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2000-03-19T10:29:04.572Z"
+  },
+  {
+    "id": 871,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2004-07-22T20:08:42.295Z"
+  },
+  {
+    "id": 872,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2017-01-14T14:38:05.964Z"
+  },
+  {
+    "id": 873,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2007-12-13T14:44:19.043Z"
+  },
+  {
+    "id": 874,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2011-07-13T11:46:36.326Z"
+  },
+  {
+    "id": 875,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2003-03-01T13:38:20.913Z"
+  },
+  {
+    "id": 876,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2017-12-20T13:34:48.980Z"
+  },
+  {
+    "id": 877,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2018-06-24T12:35:19.269Z"
+  },
+  {
+    "id": 878,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2002-01-03T04:14:27.178Z"
+  },
+  {
+    "id": 879,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2006-04-10T15:08:15.643Z"
+  },
+  {
+    "id": 880,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2012-02-21T06:56:39.731Z"
+  },
+  {
+    "id": 881,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2014-03-14T01:45:59.867Z"
+  },
+  {
+    "id": 882,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2018-10-28T11:20:43.414Z"
+  },
+  {
+    "id": 883,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2004-05-03T10:18:19.229Z"
+  },
+  {
+    "id": 884,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2009-11-06T04:53:58.712Z"
+  },
+  {
+    "id": 885,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2011-04-06T08:23:06.876Z"
+  },
+  {
+    "id": 886,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2010-05-12T01:13:39.369Z"
+  },
+  {
+    "id": 887,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2008-01-14T06:16:06.820Z"
+  },
+  {
+    "id": 888,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2000-05-27T13:47:33.316Z"
+  },
+  {
+    "id": 889,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2001-07-01T20:51:57.491Z"
+  },
+  {
+    "id": 890,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2014-06-25T08:11:31.851Z"
+  },
+  {
+    "id": 891,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2016-10-24T06:43:44.378Z"
+  },
+  {
+    "id": 892,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2011-01-30T20:06:30.593Z"
+  },
+  {
+    "id": 893,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2012-01-20T10:15:24.367Z"
+  },
+  {
+    "id": 894,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2009-09-16T03:08:55.303Z"
+  },
+  {
+    "id": 895,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2006-08-08T15:18:17.528Z"
+  },
+  {
+    "id": 896,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2019-03-06T15:30:59.478Z"
+  },
+  {
+    "id": 897,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2021-01-05T14:02:28.231Z"
+  },
+  {
+    "id": 898,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2002-03-15T06:28:10.003Z"
+  },
+  {
+    "id": 899,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2007-03-27T19:41:41.047Z"
+  },
+  {
+    "id": 900,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2003-02-02T07:33:03.923Z"
+  },
+  {
+    "id": 901,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2011-08-16T17:26:00.056Z"
+  },
+  {
+    "id": 902,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2013-04-26T04:08:58.392Z"
+  },
+  {
+    "id": 903,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2016-03-29T02:07:48.981Z"
+  },
+  {
+    "id": 904,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2019-04-28T00:02:11.793Z"
+  },
+  {
+    "id": 905,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2014-07-01T06:48:15.769Z"
+  },
+  {
+    "id": 906,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2011-07-02T11:36:57.872Z"
+  },
+  {
+    "id": 907,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2010-01-28T06:08:33.956Z"
+  },
+  {
+    "id": 908,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2014-01-30T06:43:49.306Z"
+  },
+  {
+    "id": 909,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2007-04-27T04:24:43.000Z"
+  },
+  {
+    "id": 910,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2016-07-01T20:44:29.466Z"
+  },
+  {
+    "id": 911,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2015-04-02T11:00:01.337Z"
+  },
+  {
+    "id": 912,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2007-01-01T11:08:28.138Z"
+  },
+  {
+    "id": 913,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2001-04-30T01:55:35.038Z"
+  },
+  {
+    "id": 914,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2001-01-24T06:30:04.032Z"
+  },
+  {
+    "id": 915,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2015-03-08T08:03:43.755Z"
+  },
+  {
+    "id": 916,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2006-03-23T05:32:33.071Z"
+  },
+  {
+    "id": 917,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2008-02-20T06:13:50.273Z"
+  },
+  {
+    "id": 918,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2018-04-14T19:59:21.371Z"
+  },
+  {
+    "id": 919,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2003-10-17T00:55:07.632Z"
+  },
+  {
+    "id": 920,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2016-04-09T02:41:43.702Z"
+  },
+  {
+    "id": 921,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2001-07-23T21:25:48.594Z"
+  },
+  {
+    "id": 922,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2008-07-22T10:23:39.857Z"
+  },
+  {
+    "id": 923,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2002-01-29T06:47:47.798Z"
+  },
+  {
+    "id": 924,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2015-04-25T18:59:50.547Z"
+  },
+  {
+    "id": 925,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-07-05T11:12:15.120Z"
+  },
+  {
+    "id": 926,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2018-08-09T04:34:59.999Z"
+  },
+  {
+    "id": 927,
+    "sev": "sev3",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2010-06-03T19:06:52.889Z"
+  },
+  {
+    "id": 928,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2018-01-14T12:54:43.168Z"
+  },
+  {
+    "id": 929,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2016-06-23T00:46:27.231Z"
+  },
+  {
+    "id": 930,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2012-07-18T05:15:24.502Z"
+  },
+  {
+    "id": 931,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2009-11-29T18:22:48.318Z"
+  },
+  {
+    "id": 932,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2002-10-01T09:32:09.771Z"
+  },
+  {
+    "id": 933,
+    "sev": "sev3",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2014-07-06T16:55:21.108Z"
+  },
+  {
+    "id": 934,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2005-11-12T23:20:59.755Z"
+  },
+  {
+    "id": 935,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2002-05-06T01:01:00.292Z"
+  },
+  {
+    "id": 936,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-12-15T18:14:39.076Z"
+  },
+  {
+    "id": 937,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2008-10-27T10:09:37.643Z"
+  },
+  {
+    "id": 938,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2015-10-21T05:07:13.517Z"
+  },
+  {
+    "id": 939,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2005-09-29T20:36:18.566Z"
+  },
+  {
+    "id": 940,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2001-04-05T01:11:04.596Z"
+  },
+  {
+    "id": 941,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2011-07-17T08:10:12.615Z"
+  },
+  {
+    "id": 942,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2011-09-11T04:11:06.807Z"
+  },
+  {
+    "id": 943,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2000-11-05T05:02:15.164Z"
+  },
+  {
+    "id": 944,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2002-07-21T07:57:02.514Z"
+  },
+  {
+    "id": 945,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2014-04-30T23:28:18.610Z"
+  },
+  {
+    "id": 946,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2007-04-15T02:06:23.346Z"
+  },
+  {
+    "id": 947,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2005-08-14T23:11:18.397Z"
+  },
+  {
+    "id": 948,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2010-02-27T15:10:14.747Z"
+  },
+  {
+    "id": 949,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2003-12-14T01:15:59.770Z"
+  },
+  {
+    "id": 950,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2004-01-03T19:49:06.087Z"
+  },
+  {
+    "id": 951,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2018-05-01T23:25:10.584Z"
+  },
+  {
+    "id": 952,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2002-05-11T15:49:46.335Z"
+  },
+  {
+    "id": 953,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2001-03-05T00:56:32.739Z"
+  },
+  {
+    "id": 954,
+    "sev": "sev2",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2006-09-10T23:19:57.800Z"
+  },
+  {
+    "id": 955,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2007-03-31T23:30:37.215Z"
+  },
+  {
+    "id": 956,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2011-04-06T16:43:43.756Z"
+  },
+  {
+    "id": 957,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2015-09-21T14:30:50.915Z"
+  },
+  {
+    "id": 958,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2001-07-07T08:18:32.149Z"
+  },
+  {
+    "id": 959,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2001-06-28T16:08:29.234Z"
+  },
+  {
+    "id": 960,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2009-07-05T08:16:18.014Z"
+  },
+  {
+    "id": 961,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2020-05-15T20:40:42.856Z"
+  },
+  {
+    "id": 962,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2017-12-24T03:30:45.590Z"
+  },
+  {
+    "id": 963,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2010-10-04T14:47:42.997Z"
+  },
+  {
+    "id": 964,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2006-01-17T15:52:46.886Z"
+  },
+  {
+    "id": 965,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2018-07-11T07:18:23.599Z"
+  },
+  {
+    "id": 966,
+    "sev": "sev3",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2001-07-16T05:13:05.949Z"
+  },
+  {
+    "id": 967,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2017-01-26T23:21:02.298Z"
+  },
+  {
+    "id": 968,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2019-11-14T07:27:50.989Z"
+  },
+  {
+    "id": 969,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2020-05-11T05:14:29.898Z"
+  },
+  {
+    "id": 970,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2019-07-22T06:37:46.186Z"
+  },
+  {
+    "id": 971,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "acknowledge",
+    "date": "2009-08-19T10:32:53.484Z"
+  },
+  {
+    "id": 972,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2008-09-01T22:35:56.667Z"
+  },
+  {
+    "id": 973,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2008-12-24T08:55:12.358Z"
+  },
+  {
+    "id": 974,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "new",
+    "date": "2016-07-07T06:02:24.624Z"
+  },
+  {
+    "id": 975,
+    "sev": "sev1",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2003-09-11T10:28:47.430Z"
+  },
+  {
+    "id": 976,
+    "sev": "sev4",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2018-07-01T03:52:01.510Z"
+  },
+  {
+    "id": 977,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2006-02-14T17:03:30.872Z"
+  },
+  {
+    "id": 978,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2015-03-21T18:28:07.074Z"
+  },
+  {
+    "id": 979,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2017-04-16T11:37:19.755Z"
+  },
+  {
+    "id": 980,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2013-09-09T07:07:03.667Z"
+  },
+  {
+    "id": 981,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2014-06-07T13:04:21.899Z"
+  },
+  {
+    "id": 982,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2002-07-28T09:30:00.562Z"
+  },
+  {
+    "id": 983,
+    "sev": "sev2",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2012-07-25T20:29:28.908Z"
+  },
+  {
+    "id": 984,
+    "sev": "sev2",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2013-07-10T10:27:12.540Z"
+  },
+  {
+    "id": 985,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2013-12-08T03:27:57.081Z"
+  },
+  {
+    "id": 986,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2006-05-23T21:27:24.366Z"
+  },
+  {
+    "id": 987,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2007-07-09T13:46:10.187Z"
+  },
+  {
+    "id": 988,
+    "sev": "sev1",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2012-01-07T02:14:46.085Z"
+  },
+  {
+    "id": 989,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2010-06-14T11:07:54.939Z"
+  },
+  {
+    "id": 990,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2015-03-08T16:32:43.112Z"
+  },
+  {
+    "id": 991,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2003-05-06T06:13:10.732Z"
+  },
+  {
+    "id": 992,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "closed",
+    "date": "2009-08-12T07:39:12.208Z"
+  },
+  {
+    "id": 993,
+    "sev": "sev4",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2009-09-05T06:58:23.574Z"
+  },
+  {
+    "id": 994,
+    "sev": "sev4",
+    "resource": "Reboot",
+    "type": "acknowledge",
+    "date": "2001-06-26T08:26:46.684Z"
+  },
+  {
+    "id": 995,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "closed",
+    "date": "2013-11-17T23:20:07.598Z"
+  },
+  {
+    "id": 996,
+    "sev": "sev1",
+    "resource": "HDMI Failure",
+    "type": "new",
+    "date": "2015-07-14T17:59:08.739Z"
+  },
+  {
+    "id": 997,
+    "sev": "sev0",
+    "resource": "FirmWare Update",
+    "type": "new",
+    "date": "2019-05-23T03:20:32.624Z"
+  },
+  {
+    "id": 998,
+    "sev": "sev0",
+    "resource": "Reboot",
+    "type": "closed",
+    "date": "2016-07-11T20:31:59.528Z"
+  },
+  {
+    "id": 999,
+    "sev": "sev0",
+    "resource": "HDMI Failure",
+    "type": "acknowledge",
+    "date": "2005-01-28T20:39:05.679Z"
+  }
+]
